@@ -17,6 +17,5 @@
 </html>
 <script>
 	// ④生成二维码
-	$('#qrcode').qrcode("https://m.speedo.com.cn/");
-	//$('#qrcode').qrcode({width: 64,height: 64,text: "size doesn't matter"});
+	$('#qrcode').qrcode("https://www.baidu.com");
 </script>
